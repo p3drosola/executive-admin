@@ -1,0 +1,12 @@
+This Wordpress plugin includes the following resources that were not developed by me.
+
+jQuery Scrollbar Paper by Henri Medot
+
+	- Home: http://plugins.jquery.com/project/scrollbarpaper
+	- License: CeCILL-C FREE SOFTWARE LICENSE AGREEMENT
+	
+
+Automatic Updates For Private And Commercial Plugins by Janis Elsts
+
+	- Home: http://w-shadow.com/blog/2010/09/02/automatic-updates-for-any-plugin/
+	- License: GPL

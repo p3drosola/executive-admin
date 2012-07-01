@@ -1,0 +1,25 @@
+.font-stack{font-family:"Lucida Grande",Lucida,Verdana,sans-serif;}
+.font-stack-light{font-family:"HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",sans-serif;}
+textarea,input[type="text"],input[type="password"],input[type="file"],input[type="button"],input[type="submit"],input[type="reset"],select,input#title{border:1px solid #d8d8d8;color:#464646;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;box-shadow:inset 0px 3px 3px #f7f7f7;}
+textarea:focus,input[type="text"]:focus,input[type="password"]:focus,input[type="file"]:focus,select:focus,#titlediv input#title:active{outline:none;border:1px solid #5cc9f1;color:black;box-shadow:0 0 9px rgba(187, 222, 255, 0.75);}
+.submit input,.button,input.button,.button-primary,input.button-primary,.button-secondary,input.button-secondary,.button-highlighted,input.button-highlighted,#postcustomstuff .submit input{-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
+.blue-active{background:#1d72c2;background:-moz-linear-gradient(top, #1d72c2 0%, #3495ee 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #1d72c2), color-stop(100%, #3495ee));background:-webkit-linear-gradient(top, #1d72c2 0%, #3495ee 100%);background:-o-linear-gradient(top, #1d72c2 0%, #3495ee 100%);background:-ms-linear-gradient(top, #1d72c2 0%, #3495ee 100%);background:linear-gradient(top, #1d72c2 0%, #3495ee 100%);border-color:#145795;}
+html,body{margin:0px;padding:0px;height:100%;}
+body{background:#333f3f url(../images/background.png) top left repeat;box-shadow:inset 0 0 13px rgba(0, 0, 0, 0.54);font-family:"Lucida Grande",Lucida,Verdana,sans-serif;}
+#backtoblog{display:none;}
+#login{margin:0 auto;padding-top:7em;width:380px;}
+h1 a{background:transparent;text-indent:0px;color:white;text-decoration:none;font-weight:normal;font-family:"Lucida Grande",Lucida,Verdana,sans-serif;height:auto;padding:0 10px 10px;text-shadow:0 1px 3px rgba(0, 0, 0, 0.75);}
+h1 a:hover{color:white;}
+#loginform,#lostpasswordform{-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;box-shadow:0 1px 5px rgba(0, 0, 0, 0.88);padding:50px;padding-bottom:80px;}
+#loginform>p{clear:both;}
+#loginform label{display:block;font-size:10px;margin-bottom:10px;}
+#loginform label input[type='text'],#loginform label input[type='password']{width:60%;float:right;font-size:13px;margin-top:-7px;}
+#loginform label br{display:none;}
+#loginform p.forgetmenot,#loginform p.submit{clear:none;margin-top:20px;}
+#wp-submit{background:#3495ee;background:-moz-linear-gradient(top, #3495ee 0%, #3386d5 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #3495ee), color-stop(100%, #3386d5));background:-webkit-linear-gradient(top, #3495ee 0%, #3386d5 100%);background:-o-linear-gradient(top, #3495ee 0%, #3386d5 100%);background:-ms-linear-gradient(top, #3495ee 0%, #3386d5 100%);background:linear-gradient(top, #3495ee 0%, #3386d5 100%);-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:1px solid #196cba;border-top-color:#5995cd;box-shadow:inset 0 1px 0 #6ab1f2;color:white;text-shadow:0 1px 3px rgba(0, 0, 0, 0.3);font-weight:bold;}
+#wp-submit:hover{border-color:#0a4e8e !important;color:white;font-weight:bold;background:#3386d5;background:-moz-linear-gradient(top, #3386d5 0%, #3495ee 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #3386d5), color-stop(100%, #3495ee));background:-webkit-linear-gradient(top, #3386d5 0%, #3495ee 100%);background:-o-linear-gradient(top, #3386d5 0%, #3495ee 100%);background:-ms-linear-gradient(top, #3386d5 0%, #3495ee 100%);background:linear-gradient(top, #3386d5 0%, #3495ee 100%);}
+#wp-submit:active{background:#1d72c2;background:-moz-linear-gradient(top, #1d72c2 0%, #3495ee 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #1d72c2), color-stop(100%, #3495ee));background:-webkit-linear-gradient(top, #1d72c2 0%, #3495ee 100%);background:-o-linear-gradient(top, #1d72c2 0%, #3495ee 100%);background:-ms-linear-gradient(top, #1d72c2 0%, #3495ee 100%);background:linear-gradient(top, #1d72c2 0%, #3495ee 100%);border-color:#145795;}
+#login #nav a,#login #login_error a,#login #login_error,#login p.message{color:white !important;text-shadow:0 1px 3px rgba(0, 0, 0, 0.75);text-decoration:none;border:none;}
+#login p.message,#login #login_error{background:#3da6e9;background:-moz-linear-gradient(top, #3da6e9 0%, #1268aa 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, #3da6e9), color-stop(100%, #1268aa));background:-webkit-linear-gradient(top, #3da6e9 0%, #1268aa 100%);background:-o-linear-gradient(top, #3da6e9 0%, #1268aa 100%);background:-ms-linear-gradient(top, #3da6e9 0%, #1268aa 100%);background:linear-gradient(top, #3da6e9 0%, #1268aa 100%);border:none;box-shadow:0 1px 5px rgba(0, 0, 0, 0.5);border:0px;background-color:transparent;}
+#nav{padding-left:0;}
+#nav a{font-size:10px;}
