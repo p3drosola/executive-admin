@@ -1,3 +1,5 @@
+> This repository is not being maintained! It probalby won't work with the current version of Wordpress. Sorry.
+
 # Are you sick of all that lousy grey in the Wordpress admin?
 I sure was, that’s why i built Executive Admin. It’ll make your vigorous Wordpressing much more delightful. 
 **Also, it's completely GRATIS! Yep, free!**
